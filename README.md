@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FROZENFEE
+- 👋 Hi, I’m @RI
 - 👀 I’m interested in LEARING
 - 🌱 I’m currently learning CSE
 - 💞️ I’m looking to collaborate NOT
